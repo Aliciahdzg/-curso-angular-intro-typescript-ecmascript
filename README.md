@@ -1,1 +1,1 @@
-# AngularGifsApp
+# angular-intro-typescript
